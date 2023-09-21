@@ -10,7 +10,7 @@ import com.redbus.generic.listenerutility.ListenerImplementation;
 import com.redbus.objectrepositoryutility.Homepage;
 import com.redbus.objectrepositoryutility.PnrStatusPage;
 import com.redbus.objectrepositoryutility.RedrailPage;
-@Listeners(com.redbus.generic.listenerutility.ListenerImplementation.class )
+//@Listeners(com.redbus.generic.listenerutility.ListenerImplementation.class )
 public class TC_2 extends BaseClass {
 	
 	@Test
